@@ -1,3 +1,11 @@
+# Disclaimer
+
+This is a temporary fork with purpose of publishing the build with the following merge request:
+https://github.com/Spinoco/fs2-kafka/pull/22
+
+For all other purposes please refer to https://github.com/Spinoco/fs2-kafka.
+
+
 # fs2-kafka
 Kafka client implemented with [fs2](https://github.com/functional-streams-for-scala/fs2) library
 
