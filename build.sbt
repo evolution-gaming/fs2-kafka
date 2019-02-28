@@ -30,7 +30,7 @@ lazy val commonSettings = Seq(
     , "org.scalacheck" %% "scalacheck" % "1.13.4" % "test"
     , "co.fs2" %% "fs2-core" % "1.0.2"
     , "co.fs2" %% "fs2-io" % "1.0.2"
-    , "com.spinoco" %% "protocol-kafka" % "0.3.15"
+    , "com.evolutiongaming" %% "protocol-kafka" % "0.3.17-evolution2"
     , "com.spinoco" %% "fs2-log-core" % "0.1.0"
    ),
    scmInfo := Some(ScmInfo(url("https://github.com/Spinoco/fs2-kafka"), "git@github.com:Spinoco/fs2-kafka.git")),
